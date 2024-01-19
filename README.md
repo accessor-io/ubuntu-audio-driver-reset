@@ -27,3 +27,6 @@ Running this script will apply changes to your system's audio configuration. It 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## if this helped you solve an ongoing issue feel free to send coins :)
+0xc4251891681fF308a043A52F7B492E9de562359f
